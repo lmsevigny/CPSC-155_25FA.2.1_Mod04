@@ -13,3 +13,4 @@
 * Ashton Farley
 * Tristan Griffin
 * Nick Cuttlers
+* Bryan Wong
