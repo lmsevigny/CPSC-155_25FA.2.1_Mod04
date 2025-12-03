@@ -6,6 +6,7 @@
 
 ### Students:
 * Sam Stoodent
+* Isaac Larsen
 * Nazifa Bakhshi
 * Razma Jalali
 * Juan Rojas 
