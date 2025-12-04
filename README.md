@@ -6,6 +6,7 @@
 
 ### Students:
 * Sam Stoodent
+* Micah Solomon
 * Nazifa Bakhshi
 * Razma Jalali
 * Juan Rojas 
