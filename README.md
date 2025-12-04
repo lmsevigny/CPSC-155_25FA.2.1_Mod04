@@ -6,7 +6,6 @@
 
 ### Students:
 * Sam Stoodent
-* Isaac Larsen
 * Nazifa Bakhshi
 * Razma Jalali
 * Juan Rojas 
@@ -16,3 +15,5 @@
 * Nick Cuttlers
 * Bryan Wong
 * Ruari Green
+* Isaac Larsen
+* Angela Torres
