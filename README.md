@@ -14,3 +14,4 @@
 * Tristan Griffin
 * Nick Cuttlers
 * Bryan Wong
+* Severin Martin
